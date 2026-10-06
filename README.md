@@ -5,8 +5,8 @@
 
 このリポジトリは、チーム制作のプロジェクトのうち **中里優太が実装・担当したスクリプトだけを抜粋** したものです。
 
-- 🎬 プレイ動画：<!-- YouTube の URL -->
-- 📄 ポートフォリオ：<!-- ポートフォリオの URL -->
+- 🎬 プレイ動画：<[!-- YouTube の URL --](https://youtu.be/tiHz6063wzw)>
+- 📄 ポートフォリオ：<[!-- ポートフォリオの URL --](https://drive.google.com/drive/folders/139oPBkFuiPhV2gAvQWSyUwzsUeV-MeKe?usp=drive_link)>
 - 💾 実行ファイル：[Releases](../../releases) からダウンロードできます
 
 ---
